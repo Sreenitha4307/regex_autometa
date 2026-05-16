@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+nfa_output
+nfa_output.png
+*.dot
+.env
